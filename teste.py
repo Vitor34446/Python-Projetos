@@ -1,1 +1,1 @@
-print('Eu sou lindo, porra, e olá')
+print('Eu sou lindo, e olá')
